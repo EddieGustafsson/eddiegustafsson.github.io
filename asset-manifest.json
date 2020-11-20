@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cffc1aa.chunk.css",
+    "main.css": "/static/css/main.2303d72f.chunk.css",
     "main.js": "/static/js/main.bff7d01a.chunk.js",
     "main.js.map": "/static/js/main.bff7d01a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3624437f.js",
@@ -10,7 +10,7 @@
     "static/js/2.d7d583a0.chunk.js.map": "/static/js/2.d7d583a0.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.4ee2f7a8.chunk.css.map": "/static/css/2.4ee2f7a8.chunk.css.map",
-    "static/css/main.6cffc1aa.chunk.css.map": "/static/css/main.6cffc1aa.chunk.css.map",
+    "static/css/main.2303d72f.chunk.css.map": "/static/css/main.2303d72f.chunk.css.map",
     "static/js/2.d7d583a0.chunk.js.LICENSE.txt": "/static/js/2.d7d583a0.chunk.js.LICENSE.txt",
     "static/media/eddie-gustafsson-CV.32c97280.pdf": "/static/media/eddie-gustafsson-CV.32c97280.pdf",
     "static/media/profile.513c1c1a.png": "/static/media/profile.513c1c1a.png"
@@ -19,7 +19,7 @@
     "static/js/runtime-main.3624437f.js",
     "static/css/2.4ee2f7a8.chunk.css",
     "static/js/2.d7d583a0.chunk.js",
-    "static/css/main.6cffc1aa.chunk.css",
+    "static/css/main.2303d72f.chunk.css",
     "static/js/main.bff7d01a.chunk.js"
   ]
 }

@@ -1,25 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0ab4db3.chunk.css",
-    "main.js": "/static/js/main.c129558f.chunk.js",
-    "main.js.map": "/static/js/main.c129558f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3624437f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3624437f.js.map",
-    "static/css/2.4ee2f7a8.chunk.css": "/static/css/2.4ee2f7a8.chunk.css",
-    "static/js/2.32b92dc0.chunk.js": "/static/js/2.32b92dc0.chunk.js",
-    "static/js/2.32b92dc0.chunk.js.map": "/static/js/2.32b92dc0.chunk.js.map",
+    "main.css": "/static/css/main.45baba5b.css",
+    "main.js": "/static/js/main.83ccda86.js",
+    "static/js/787.4c467079.chunk.js": "/static/js/787.4c467079.chunk.js",
+    "static/media/me.png": "/static/media/me.513c1c1a4fc6e9f23135.png",
+    "static/media/edgusdev.png": "/static/media/edgusdev.9723251d342b224bcfe2.png",
+    "static/media/avatar.png": "/static/media/avatar.6e7d2680ce48ffce9af8.png",
     "index.html": "/index.html",
-    "static/css/2.4ee2f7a8.chunk.css.map": "/static/css/2.4ee2f7a8.chunk.css.map",
-    "static/css/main.c0ab4db3.chunk.css.map": "/static/css/main.c0ab4db3.chunk.css.map",
-    "static/js/2.32b92dc0.chunk.js.LICENSE.txt": "/static/js/2.32b92dc0.chunk.js.LICENSE.txt",
-    "static/media/eddie-gustafsson-CV.32c97280.pdf": "/static/media/eddie-gustafsson-CV.32c97280.pdf",
-    "static/media/profile.513c1c1a.png": "/static/media/profile.513c1c1a.png"
+    "main.45baba5b.css.map": "/static/css/main.45baba5b.css.map",
+    "main.83ccda86.js.map": "/static/js/main.83ccda86.js.map",
+    "787.4c467079.chunk.js.map": "/static/js/787.4c467079.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3624437f.js",
-    "static/css/2.4ee2f7a8.chunk.css",
-    "static/js/2.32b92dc0.chunk.js",
-    "static/css/main.c0ab4db3.chunk.css",
-    "static/js/main.c129558f.chunk.js"
+    "static/css/main.45baba5b.css",
+    "static/js/main.83ccda86.js"
   ]
 }
